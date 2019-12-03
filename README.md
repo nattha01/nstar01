@@ -24,10 +24,3 @@ pip3 install googletrans
 
 pkg install nano
 
-
-
-Nano Tes.py    (Edit MID)
-
-cd botLineEm
-
-PYThon3 Tes.py
